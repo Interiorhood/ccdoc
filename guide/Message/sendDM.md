@@ -1,7 +1,7 @@
 # $sendDM <Badge type="danger" text="Premium ONLY!" vertical="middle" /> 
 Sends the output of the code to the author in DM's, or to the specified userID's DM's.
 
-#### Usage: `$sendDM[userID;message]`
+#### Usage: `$sendDM[userID (optional);message;return message id or undefined,if message could not be send (yes/no , default is no)]`
 <br/>
 <discord-messages>
 	<discord-message :bot="false" role-color="#ffcc9a" author="Member">
