@@ -35,6 +35,8 @@ quantifier(s) in between.
 `**` to ^ 2 numbers
 
 `()` to calculate everything in between, before anything else
+
+`!` to find the factorial of that number
 :::
 
 
