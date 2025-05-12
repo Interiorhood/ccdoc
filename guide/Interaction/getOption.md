@@ -12,3 +12,6 @@ $getOption[Option name]
 
 ### Output
 ![](https://i.imgur.com/DOzUgk9.png)
+
+::: danger Please be aware!!
+Option name parameter is case-sensitive and will not return properly if you do not use the exact same cases!
