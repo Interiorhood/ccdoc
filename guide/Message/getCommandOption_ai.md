@@ -16,6 +16,9 @@ This function requires you to specify the data type of the option you're trying 
 *   `mentionable`: For user or role mentions/IDs.
 *   `user`: For user mentions/IDs.
 
+::: danger Please be aware!!
+Option name parameter is case-sensitive and will not return properly if you do not use the exact same cases!
+
 <br/>
 
 ##### Function difficulty: <Badge type="tip" text="Easy" vertical="middle" />
